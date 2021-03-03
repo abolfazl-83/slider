@@ -1,0 +1,1 @@
+slider using reactjs and styled components.
